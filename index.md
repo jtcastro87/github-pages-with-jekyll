@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my pagina"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk abou...
+Currso de GitHub para principiantes
